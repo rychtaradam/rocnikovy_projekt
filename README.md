@@ -1,1 +1,7 @@
-# rocnikovy_projekt
+# Ročníkový projekt
+## Cíl:
+
+## Zdroje:
+### Konkurence:
+### Knihovny:
+### FrameWork:
