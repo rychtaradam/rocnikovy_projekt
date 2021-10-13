@@ -12,6 +12,7 @@
       - PyCharm
       - Autodesk Inventor
       - Arduino IDE
+      - [Diagram](https://app.diagrams.net/)
 
 ## Rok 2019
 
@@ -44,3 +45,6 @@
     - A přišel taky s pár radami co použít a čemu se vyhnout.
 - Rozhodl jsem se celý projekt překopat a hlavně vyloučit použití Arduina UNO.
 - Místo něho jsem začal s přípravami na Raspberry Pi 3 Model B.
+
+   ### 1.10. 2021
+   - Návrh diagramu 
