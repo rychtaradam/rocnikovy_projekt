@@ -1,12 +1,17 @@
 # Ročníkový projekt
 
-## Využité technologie a komponenty
-   ### Komponenty
-        - Raspberry Pi 3 Model B
-        - Display TM1637
-        - Teplotní sonda DS18B20
-        - Tiskárna Ender 3 V2
-- 
+## Využité technologie, komponenty, stroje a aplikace
+   ### Komponenty a stroje
+      - Raspberry Pi 3 Model B
+      - Display TM1637
+      - Teplotní sonda DS18B20
+      - Tiskárna Ender 3 V2
+   ### Technologie
+      - Flask nebo Django
+   ### Aplikace na programování a grafiku
+      - PyCharm
+      - Autodesk Inventor
+      - Arduino IDE
 
 ## Rok 2019
 
