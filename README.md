@@ -26,11 +26,11 @@ Vše fungovalo, tak jak mělo a otec můj teploměr používá.
 
 ## Rok 2021
 
-Použití nápadu na teploměr jako závěrečný projekt.
-Zjištění - arduino a "blbý" teploměr nebude k maturitě stačit.
-Konzultace:
-  S panem Lučným jsme prokonzultovali možné varianty využití a zlepšení projektu.
-  Pan Lučný mi velmi pomohl a byl velice vstřícný a ochotný mi pomoct.
-  A přišel taky s pár radami co použít a čemu se vyhnout.
-Rozhodl jsem se celý projekt překopat a hlavně vyloučit použití Arduina UNO.
-Místo něho jsem začal s přípravami na Raspberry Pi 3 Model B.
+- Použití nápadu na teploměr jako závěrečný projekt.
+- Zjištění - arduino a "blbý" teploměr nebude k maturitě stačit.
+- Konzultace:
+    - S panem Lučným jsme prokonzultovali možné varianty využití a zlepšení projektu.
+    - Pan Lučný mi velmi pomohl a byl velice vstřícný a ochotný mi pomoct.
+    - A přišel taky s pár radami co použít a čemu se vyhnout.
+- Rozhodl jsem se celý projekt překopat a hlavně vyloučit použití Arduina UNO.
+- Místo něho jsem začal s přípravami na Raspberry Pi 3 Model B.
