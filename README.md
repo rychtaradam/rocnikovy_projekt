@@ -8,6 +8,7 @@
       - Tiskárna Ender 3 V2
    ### Technologie
       - Flask nebo Django
+      - Blynk - aplikace v mobilu na custom projekty
    ### Aplikace na programování a grafiku
       - PyCharm
       - Autodesk Inventor
