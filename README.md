@@ -12,7 +12,7 @@
       - PyCharm
       - Autodesk Inventor
       - Arduino IDE
-      - [Diagram](https://app.diagrams.net/)
+      - Diagram - https://app.diagrams.net/
 
 ## Rok 2019
 
