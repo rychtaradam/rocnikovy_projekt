@@ -49,3 +49,6 @@
 
    ### 1.10. 2021
    - Návrh diagramu 
+   ### 22.10. 2021
+   - Instalace Raspbian OS
+   - Vytvoření základních funkcí v C++
